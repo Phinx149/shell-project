@@ -1,0 +1,23 @@
+# Executables
+shell
+*.exe
+*.out
+a.out
+
+# Object files
+*.o
+*.obj
+
+# Editor
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test files
+test_*
+*.log
